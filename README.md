@@ -1,2 +1,2 @@
-# angular
+# Angular
 angular learning resources
