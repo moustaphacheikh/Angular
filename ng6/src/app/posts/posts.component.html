@@ -1,0 +1,9 @@
+<br><br>
+<div *ngFor="let post of posts$">
+  <div class="card border-primary bg-light mb-3">
+    <div class="card-header">{{ post.title }}</div>
+    <div class="card-body">
+      <p class="card-text">{{post.body}}</p>
+    </div>
+  </div>
+</div>
